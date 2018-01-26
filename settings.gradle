@@ -1,0 +1,4 @@
+include 'projA'
+include 'projB'
+
+rootProject.name = 'gradle-4172'
